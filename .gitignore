@@ -1,0 +1,11 @@
+# Cloned PoC repositories (reference only)
+CVE-2026-109618-619/
+PHP-uniDoS/
+php2shell-old2/
+php2shell-poc/
+
+# Docker artifacts
+*.log
+
+# Session files
+sessions/
